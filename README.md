@@ -117,7 +117,7 @@
     <img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:20px; margin-top: 10px;"/>
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img align="left" alt="node" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="padding-right:20px; margin-top: 10px;"/>
+    <img align="left" alt="node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  style="padding-right:20px; margin-top: 10px;"/>
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:20px; margin-top: 10px"/>
