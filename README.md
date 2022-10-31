@@ -24,7 +24,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/sanjeevbhusal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjeevbhusal23" height="30" width="26" style="padding-right: 20px;"/>
+<a href="https://twitter.com/sanjeevbhusal2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjeevbhusal23" height="30" width="26" style="margin-right: 40px;"/>
 <a href="https://linkedin.com/in/sanjeevbhusal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="" height="30" width="26" style="padding-right:20px;"/></a>
 <a href="https://stackoverflow.com/users/16488523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16488523" height="30" width="26" style="padding-right:20px;"/></a>
 <a href="https://dev.to/sanjeevbhusal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanjeevbhusal" height="30" width="26" style="padding-right:20px;"/></a>
