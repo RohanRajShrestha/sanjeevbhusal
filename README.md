@@ -10,7 +10,7 @@
 
 🧭 I like exploring new technologies to identify what specific problem it solves.
 
-❤️‍🔥 I have found my interest in backend development and have been working on backend technologies since past 1 year.
+❤️‍🔥 I have found my interest in backend development and have been working on backend technologies since 1 year.
 
 🚀 I’m currently working on [blogAPI](https://github.com/sanjeevbhusal/blogAPI)
 
